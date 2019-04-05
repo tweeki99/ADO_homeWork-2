@@ -1,0 +1,12 @@
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\bin\Debug\Database.mdf
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\bin\Debug\Database_log.ldf
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\bin\Debug\hwAdo-2.exe.config
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\bin\Debug\hwAdo-2.exe
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\bin\Debug\hwAdo-2.pdb
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\bin\Debug\hwAdo2.DataAccess.dll
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\bin\Debug\hwAdo2.DataAccess.pdb
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\obj\Debug\hwAdo-2.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\obj\Debug\hwAdo-2.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\obj\Debug\hwAdo-2.csproj.CopyComplete
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\obj\Debug\hwAdo-2.exe
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo-2\obj\Debug\hwAdo-2.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hwAdo-2", "hwAdo-2\hwAdo-2.csproj", "{6C41D26F-A36D-4EB4-82C3-AE6EF7B5717C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hwAdo2.DataAccess", "hwAdo2.DataAccess\hwAdo2.DataAccess.csproj", "{189DD6AE-8976-4A39-9F23-D1C7DC053997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C41D26F-A36D-4EB4-82C3-AE6EF7B5717C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C41D26F-A36D-4EB4-82C3-AE6EF7B5717C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C41D26F-A36D-4EB4-82C3-AE6EF7B5717C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C41D26F-A36D-4EB4-82C3-AE6EF7B5717C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189DD6AE-8976-4A39-9F23-D1C7DC053997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189DD6AE-8976-4A39-9F23-D1C7DC053997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189DD6AE-8976-4A39-9F23-D1C7DC053997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189DD6AE-8976-4A39-9F23-D1C7DC053997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {623DC013-A6D3-4E48-B027-57965B44CC31}
+	EndGlobalSection
+EndGlobal

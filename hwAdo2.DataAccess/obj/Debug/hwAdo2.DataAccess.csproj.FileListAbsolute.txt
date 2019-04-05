@@ -1,0 +1,8 @@
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo2.DataAccess\bin\Debug\Database.mdf
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo2.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo2.DataAccess\bin\Debug\hwAdo2.DataAccess.dll
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo2.DataAccess\bin\Debug\hwAdo2.DataAccess.pdb
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo2.DataAccess\obj\Debug\hwAdo2.DataAccess.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo2.DataAccess\obj\Debug\hwAdo2.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo2.DataAccess\obj\Debug\hwAdo2.DataAccess.dll
+C:\Users\Shipa\source\repos\hwAdo-2\hwAdo2.DataAccess\obj\Debug\hwAdo2.DataAccess.pdb
